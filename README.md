@@ -1,9 +1,9 @@
-### Hi there 👋
+[![Twitter: AmitJoshi](https://img.shields.io/twitter/follow/AmitJoshi?style=social)](https://twitter.com/joamit13)
+[![Linkedin: AmitJoshi](https://img.shields.io/badge/-amitjoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joamit/)](https://www.linkedin.com/in/joamit/)
+[![GitHub AmitJoshi](https://img.shields.io/github/followers/josamit?label=follow&style=social)](https://github.com/josamit)
+### Hi there <img src="https://media.giphy.com/media/z24q9PQNlw19u/source.gif" width="50"></h2>
 
-<!--
-**josamit/josamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/VekcnHOwOI5So/source.gif" width="230">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
